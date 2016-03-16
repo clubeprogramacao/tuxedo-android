@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tuxedo</string>
+
+    <string name="are_you_homo">Are you homo?</string>
+    <string name="btn_try">Try me!</string>
+    <string name="btn_pick_suit">Pick suit</string>
+</resources>
